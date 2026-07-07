@@ -1,5 +1,5 @@
 import os
-import Modulo as mm
+import modulo as mm
 
 opmenu = ""
 
